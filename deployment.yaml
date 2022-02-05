@@ -21,9 +21,9 @@ spec:
 
           containers:
 
-          - name: synaptiqtest1
+          - name: synaptiqtest
 
-            image: harbor.tanzu.local/library/synaptiq-python:1.0
+            image: vishblip93\test:latest
 
             imagePullPolicy: IfNotPresent
 
