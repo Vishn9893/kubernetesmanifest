@@ -23,7 +23,7 @@ spec:
 
           - name: synaptiqtest
 
-            image: vishblip93/test:12
+            image: vishblip93/test:13
 
             imagePullPolicy: IfNotPresent
 
